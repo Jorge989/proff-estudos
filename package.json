@@ -2,7 +2,7 @@
   "name": "webum",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jorge989.github.io/Plataforma-Estudos",
+  "homepage": "https://jorge989.github.io/PlataformaEstudos",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
