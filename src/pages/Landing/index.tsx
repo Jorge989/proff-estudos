@@ -43,7 +43,7 @@ function Ladding() {
         </div>
 
         <span className="total-connections">
-          Total de  {totalConnections} conexões ja  realizadas
+          Total de {totalConnections} conexões ja  realizadas
 <img src={purpleHeartIcon} alt="Purple Heart" />
         </span>
       </div>
